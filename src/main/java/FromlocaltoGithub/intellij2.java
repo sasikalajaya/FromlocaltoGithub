@@ -5,4 +5,5 @@ package FromlocaltoGithub;
  */
 public class intellij2 {
     // changes in intellij 
+  // changes in github
 }
