@@ -1,2 +1,4 @@
 this is a file that is created inside the Github
 After pull from Intellij this line is inserted and commit,, I want to check whether the chanhges inside Intellij is not going to override this 
+I rebased it and accepted this change. 
+but I am going to rebase and accet their changes 
